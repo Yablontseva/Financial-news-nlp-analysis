@@ -51,6 +51,9 @@ Code for financial news sentiment analysis and market movement prediction using 
 
 ## Используемые датасеты
 
+- Financial PhraseBank Dataset: https://huggingface.co/datasets/takala/financial_phrasebank
+- Financial Sentiment Analysis Dataset: https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis
+  
 ### Financial PhraseBank
 Датасет финансовых новостей с экспертной разметкой тональности:
 - positive
